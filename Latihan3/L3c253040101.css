@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    font-family: Georgia;
+}
+
+h1{
+    font-family: Comic sans MS;
+    font-size: 60px;
+    color: darkblue;
+}
+h4{
+    text-align: right;
+    font-style: italic;
+}
+
+.paragraf1{
+    text-align: center;
+    color: orange;
+}
+.paragraf2{
+    text-align: right;
+}
+.Ig{
+  
+  color: white;
+}
+
+.Ig2{
+    text-decoration: none;
+    font-weight: bold;
+}
+.Ig2:hover{
+    color:white ;
+    background-color: darkblue;
+}
+.Ig:hover{
+    color: red; 
+text-decoration:none ;
+}
